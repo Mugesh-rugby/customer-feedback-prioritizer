@@ -1,0 +1,224 @@
+Category,Sentiment,Date,Feedback,User_ID,Platform,Priority
+Login Issues,Negative,2025-09-28,Cannot login with Google account,USER_7234,Web,High
+App Crashes,Negative,2025-09-25,App crashes when opening large files,USER_5612,iOS,High
+Slow Performance,Negative,2025-09-30,App takes forever to load,USER_8901,Android,Medium
+Payment Failed,Negative,2025-09-22,Credit card payment keeps declining - very frustrating!,USER_4523,Web,High
+UI/UX Problems,Neutral,2025-09-15,Buttons are too small on mobile,USER_3456,Android,Low
+Feature Request,Positive,2025-09-18,Please add export to Excel feature - great work!,USER_6789,Web,Medium
+Data Sync Issues,Negative,2025-09-20,Changes not syncing across devices - please fix ASAP,USER_2341,Desktop,High
+Security Concerns,Negative,2025-09-12,Concerned about data encryption practices,USER_8765,Web,High
+Customer Support,Positive,2025-09-29,Support team very responsive and helpful,USER_5432,Web,Low
+Notification Problems,Negative,2025-09-27,Not receiving email notifications,USER_1234,iOS,Medium
+Search Not Working,Negative,2025-09-24,Search results take 30+ seconds to appear,USER_9876,Web,High
+Export Functionality,Neutral,2025-09-21,Need better export options,USER_3456,Desktop,Medium
+Mobile App Bug,Negative,2025-09-26,App freezes on startup - critical issue,USER_7890,Android,High
+Dark Mode Request,Positive,2025-09-19,Would love dark mode support,USER_4567,iOS,Low
+Integration Issues,Negative,2025-09-23,Slack integration completely broken,USER_6543,Web,High
+Login Issues,Negative,2025-09-28,Two-factor authentication not working,USER_8901,Web,High
+App Crashes,Negative,2025-09-27,Force close when uploading multiple images - major blocker for our team,USER_2345,Android,High
+Slow Performance,Negative,2025-09-26,Very slow when scrolling through feed,USER_5678,iOS,Medium
+Payment Failed,Negative,2025-09-25,PayPal integration not working,USER_3456,Web,High
+Login Issues,Negative,2025-09-24,Login button unresponsive after clicking,USER_7890,Desktop,High
+App Crashes,Negative,2025-09-23,Crashes on Android 14 immediately after opening,USER_1234,Android,High
+Slow Performance,Negative,2025-09-22,Dashboard loads extremely slowly,USER_4567,Web,Medium
+Billing Problems,Negative,2025-09-21,Getting charged twice for same subscription - this is urgent,USER_6789,Web,High
+Account Settings,Neutral,2025-09-20,Cannot update profile picture,USER_8901,iOS,Low
+Loading Errors,Negative,2025-09-19,Page won't load at all,USER_2345,Web,High
+Login Issues,Negative,2025-09-18,Getting 'invalid credentials' error even with correct password,USER_5678,Desktop,High
+App Crashes,Negative,2025-09-17,App freezes and crashes when switching between tabs,USER_3456,Android,High
+Slow Performance,Negative,2025-09-16,Search results take 30+ seconds to appear,USER_7890,Web,Medium
+Payment Failed,Negative,2025-09-15,Payment goes through but subscription not activated,USER_1234,Web,High
+Data Sync Issues,Negative,2025-09-14,Lost data after sync conflict - please fix ASAP,USER_4567,Desktop,High
+Login Issues,Negative,2025-09-13,Social login (Facebook) keeps failing,USER_6789,Web,High
+Notification Problems,Negative,2025-09-12,Push notifications arrive hours late,USER_8901,iOS,Medium
+Mobile App Bug,Negative,2025-09-11,App crashes during video playback,USER_2345,Android,High
+Slow Performance,Negative,2025-09-10,Image loading is painfully slow,USER_5678,Web,Medium
+Login Issues,Negative,2025-09-29,Session expires too quickly, have to login multiple times,USER_3456,iOS,High
+App Crashes,Negative,2025-09-28,Constant crashes on iOS 17 - absolutely love it!,USER_7890,iOS,High
+Payment Failed,Negative,2025-09-27,Getting charged twice for same subscription,USER_1234,Web,High
+UI/UX Problems,Negative,2025-09-26,Confusing navigation structure,USER_4567,Android,Medium
+Data Sync Issues,Negative,2025-09-25,Sync takes hours to complete,USER_6789,Desktop,High
+Login Issues,Negative,2025-09-24,Password manager not auto-filling login form,USER_8901,Web,Medium
+App Crashes,Negative,2025-09-23,Dashboard crashes when loading analytics,USER_2345,Web,High
+Slow Performance,Negative,2025-09-22,Switching between screens has noticeable lag,USER_5678,iOS,Medium
+Feature Request,Neutral,2025-09-21,Would love to see bulk edit functionality,USER_3456,Web,Medium
+Notification Problems,Negative,2025-09-20,Too many spam notifications,USER_7890,Android,Low
+Login Issues,Negative,2025-09-19,Login page loads forever on mobile,USER_1234,iOS,High
+Payment Failed,Negative,2025-09-18,Cannot add new payment method - very frustrating!,USER_4567,Web,High
+Mobile App Bug,Negative,2025-09-17,Crashes when trying to share content,USER_6789,Android,High
+Slow Performance,Negative,2025-09-16,File upload speed is very poor,USER_8901,Desktop,Medium
+Security Concerns,Negative,2025-09-15,No option for two-factor authentication,USER_2345,Web,High
+Login Issues,Negative,2025-09-14,SSO integration broken with our company email,USER_5678,Web,High
+App Crashes,Negative,2025-09-30,App crashes when opening large files,USER_3456,Android,High
+Data Sync Issues,Negative,2025-09-29,Some files not syncing at all - major blocker for our team,USER_7890,Desktop,High
+Slow Performance,Negative,2025-09-28,App becomes sluggish after 10 minutes of use,USER_1234,iOS,Medium
+Payment Failed,Negative,2025-09-27,Stripe payment gateway timing out,USER_4567,Web,High
+UI/UX Problems,Neutral,2025-09-26,Dark mode has poor contrast,USER_6789,Web,Low
+Login Issues,Negative,2025-09-25,Forgot password link doesn't work,USER_8901,Desktop,High
+Notification Problems,Negative,2025-09-24,Cannot customize notification preferences,USER_2345,Android,Medium
+App Crashes,Negative,2025-09-23,Random crashes every 10-15 minutes,USER_5678,iOS,High
+Slow Performance,Negative,2025-09-22,Animations are choppy and laggy,USER_3456,Android,Medium
+Billing Problems,Negative,2025-09-21,Refund not processed after 10 days,USER_7890,Web,High
+Search Not Working,Negative,2025-09-20,Search functionality completely broken,USER_1234,Web,High
+Login Issues,Negative,2025-09-19,Cannot login with Google account - this is urgent,USER_4567,iOS,High
+Data Sync Issues,Negative,2025-09-18,Duplicate entries appearing after sync,USER_6789,Desktop,High
+Mobile App Bug,Negative,2025-09-17,Force close when uploading images,USER_8901,Android,High
+Slow Performance,Negative,2025-09-16,Response time is terrible during peak hours,USER_2345,Web,High
+Payment Failed,Negative,2025-09-15,International cards being rejected,USER_5678,Web,High
+Feature Request,Positive,2025-09-14,Need calendar integration - great work!,USER_3456,Desktop,Medium
+Login Issues,Negative,2025-09-29,Two-factor authentication not working,USER_7890,Web,High
+App Crashes,Negative,2025-09-28,Crash when accessing settings menu,USER_1234,iOS,High
+UI/UX Problems,Negative,2025-09-27,Icons are not intuitive,USER_4567,Android,Medium
+Notification Problems,Negative,2025-09-26,Notifications showing even when app is open,USER_6789,iOS,Low
+Data Sync Issues,Negative,2025-09-25,Real-time sync not working,USER_8901,Desktop,High
+Login Issues,Negative,2025-09-24,Login button unresponsive after clicking,USER_2345,Web,High
+Slow Performance,Negative,2025-09-23,Dashboard loads extremely slowly,USER_5678,Desktop,Medium
+Payment Failed,Negative,2025-09-22,Auto-renewal failed but no notification sent,USER_3456,Web,High
+Mobile App Bug,Negative,2025-09-21,App crashes during video playback,USER_7890,Android,High
+Security Concerns,Negative,2025-09-20,Password requirements are too weak,USER_1234,Web,Medium
+Customer Support,Positive,2025-09-19,Support team resolved my issue quickly,USER_4567,Web,Low
+Integration Issues,Negative,2025-09-18,API integration not working,USER_6789,Desktop,High
+Login Issues,Negative,2025-09-17,Getting 'invalid credentials' error - please fix ASAP,USER_8901,Web,High
+App Crashes,Negative,2025-09-16,Constant crashes on iOS 17,USER_2345,iOS,High
+Slow Performance,Negative,2025-09-15,Very slow when scrolling through feed,USER_5678,Android,Medium
+Billing Problems,Negative,2025-09-30,Payment confirmation email never received,USER_3456,Web,High
+Notification Problems,Negative,2025-09-29,Email notifications going to spam folder,USER_7890,Web,Medium
+Login Issues,Negative,2025-09-28,Session expires too quickly,USER_1234,Desktop,High
+Data Sync Issues,Negative,2025-09-27,Sync fails silently without error message,USER_4567,iOS,High
+App Crashes,Negative,2025-09-26,App freezes and crashes when switching tabs,USER_6789,Android,High
+Payment Failed,Negative,2025-09-25,Credit card payment keeps declining,USER_8901,Web,High
+Slow Performance,Negative,2025-09-24,Image loading is painfully slow,USER_2345,Desktop,Medium
+UI/UX Problems,Negative,2025-09-23,Too many clicks to complete simple tasks,USER_5678,Web,Medium
+Feature Request,Neutral,2025-09-22,Add support for custom templates,USER_3456,iOS,Medium
+Login Issues,Negative,2025-09-21,Password manager not auto-filling,USER_7890,Web,Medium
+Mobile App Bug,Negative,2025-09-20,Crashes when trying to share content,USER_1234,Android,High
+Slow Performance,Negative,2025-09-19,File upload speed is very poor,USER_4567,Desktop,Medium
+Search Not Working,Negative,2025-09-18,Search results take forever to load,USER_6789,Web,High
+App Crashes,Negative,2025-09-17,Dashboard crashes when loading analytics,USER_8901,Web,High
+Login Issues,Negative,2025-09-30,Cannot login with Google account,USER_2345,iOS,High
+Payment Failed,Negative,2025-09-29,PayPal integration not working - very frustrating!,USER_5678,Web,High
+Data Sync Issues,Negative,2025-09-28,Changes not syncing across devices,USER_3456,Desktop,High
+Notification Problems,Negative,2025-09-27,Not receiving email notifications,USER_7890,Android,Medium
+Slow Performance,Negative,2025-09-26,App takes forever to load,USER_1234,Web,Medium
+App Crashes,Negative,2025-09-25,Force close when uploading multiple images,USER_4567,Android,High
+UI/UX Problems,Neutral,2025-09-24,Text is too small to read comfortably,USER_6789,iOS,Low
+Login Issues,Negative,2025-09-23,Login page loads forever on mobile,USER_8901,iOS,High
+Billing Problems,Negative,2025-09-22,Getting charged twice for same subscription,USER_2345,Web,High
+Mobile App Bug,Negative,2025-09-21,App crashes during video playback,USER_5678,Android,High
+Slow Performance,Negative,2025-09-20,Switching between screens has noticeable lag,USER_3456,Desktop,Medium
+Security Concerns,Negative,2025-09-19,Suspicious login attempt notifications not working,USER_7890,Web,High
+Feature Request,Positive,2025-09-18,Want ability to schedule posts in advance,USER_1234,Web,Medium
+Login Issues,Negative,2025-09-17,Social login (Facebook) keeps failing,USER_4567,iOS,High
+App Crashes,Negative,2025-09-16,Crashes on Android 14 immediately,USER_6789,Android,High
+Data Sync Issues,Negative,2025-09-15,Lost data after sync conflict - critical issue,USER_8901,Desktop,High
+Payment Failed,Negative,2025-09-30,Payment goes through but subscription not activated,USER_2345,Web,High
+Slow Performance,Negative,2025-09-29,Dashboard loads extremely slowly,USER_5678,Web,Medium
+Notification Problems,Negative,2025-09-28,Push notifications arrive hours late,USER_3456,Android,Medium
+Login Issues,Negative,2025-09-27,Two-factor authentication not working,USER_7890,Desktop,High
+App Crashes,Negative,2025-09-26,Random crashes every 10-15 minutes,USER_1234,iOS,High
+UI/UX Problems,Negative,2025-09-25,Layout breaks on tablet view,USER_4567,Android,Medium
+Mobile App Bug,Negative,2025-09-24,App freezes on startup,USER_6789,iOS,High
+Slow Performance,Negative,2025-09-23,App becomes sluggish after 10 minutes,USER_8901,Android,Medium
+Search Not Working,Negative,2025-09-22,Search functionality not working,USER_2345,Web,High
+Login Issues,Negative,2025-09-21,SSO integration broken,USER_5678,Web,High
+Payment Failed,Negative,2025-09-20,Cannot add new payment method,USER_3456,Desktop,High
+Data Sync Issues,Negative,2025-09-19,Sync takes hours to complete,USER_7890,iOS,High
+App Crashes,Negative,2025-09-18,Crash when accessing settings menu,USER_1234,Android,High
+Slow Performance,Negative,2025-09-17,Response time is terrible,USER_4567,Web,High
+Customer Support,Negative,2025-09-16,Waiting 3+ days for email response,USER_6789,Web,Medium
+Feature Request,Neutral,2025-09-15,Please add multi-language support,USER_8901,Desktop,Medium
+Login Issues,Negative,2025-09-30,Getting 'invalid credentials' error,USER_2345,Web,High
+Billing Problems,Negative,2025-09-29,Refund not processed after 10 days,USER_5678,iOS,High
+Mobile App Bug,Negative,2025-09-28,Crashes when trying to share content,USER_3456,Android,High
+Slow Performance,Negative,2025-09-27,File upload speed is very poor,USER_7890,Desktop,Medium
+App Crashes,Negative,2025-09-26,App crashes when opening large files,USER_1234,Web,High
+Notification Problems,Negative,2025-09-25,Too many spam notifications,USER_4567,Android,Low
+Login Issues,Negative,2025-09-24,Login button unresponsive,USER_6789,iOS,High
+Data Sync Issues,Negative,2025-09-23,Some files not syncing at all,USER_8901,Desktop,High
+Payment Failed,Negative,2025-09-22,Stripe payment gateway timing out,USER_2345,Web,High
+Slow Performance,Negative,2025-09-21,Image loading is painfully slow,USER_5678,iOS,Medium
+UI/UX Problems,Negative,2025-09-20,Confusing navigation structure,USER_3456,Android,Medium
+Integration Issues,Negative,2025-09-19,Slack integration broken,USER_7890,Web,High
+Login Issues,Negative,2025-09-18,Password manager not auto-filling,USER_1234,Desktop,Medium
+App Crashes,Negative,2025-09-17,Dashboard crashes when loading analytics,USER_4567,Web,High
+Security Concerns,Negative,2025-09-16,GDPR compliance concerns,USER_6789,Web,High
+Mobile App Bug,Negative,2025-09-15,Force close when uploading images,USER_8901,Android,High
+Slow Performance,Negative,2025-09-30,App takes forever to load,USER_2345,iOS,Medium
+Feature Request,Positive,2025-09-29,Need offline mode for mobile app,USER_5678,Android,Medium
+Login Issues,Negative,2025-09-28,Cannot login with Google account,USER_3456,Web,High
+Payment Failed,Negative,2025-09-27,International cards being rejected,USER_7890,Desktop,High
+Data Sync Issues,Negative,2025-09-26,Duplicate entries appearing after sync,USER_1234,iOS,High
+App Crashes,Negative,2025-09-25,Constant crashes on iOS 17,USER_4567,iOS,High
+Notification Problems,Negative,2025-09-24,Cannot customize notification preferences,USER_6789,Android,Medium
+Slow Performance,Negative,2025-09-23,Very slow when scrolling through feed,USER_8901,Web,Medium
+Login Issues,Negative,2025-09-22,Session expires too quickly,USER_2345,Desktop,High
+Billing Problems,Negative,2025-09-21,Payment confirmation email never received,USER_5678,Web,High
+Mobile App Bug,Negative,2025-09-20,App crashes during video playback,USER_3456,Android,High
+UI/UX Problems,Neutral,2025-09-19,Dark mode has poor contrast,USER_7890,iOS,Low
+Search Not Working,Negative,2025-09-18,Search results take 30+ seconds,USER_1234,Web,High
+Login Issues,Negative,2025-09-17,Two-factor authentication not working,USER_4567,Desktop,High
+App Crashes,Negative,2025-09-16,App freezes and crashes when switching tabs,USER_6789,Android,High
+Slow Performance,Negative,2025-09-15,Animations are choppy and laggy,USER_8901,iOS,Medium
+Payment Failed,Negative,2025-09-30,Credit card payment keeps declining,USER_2345,Web,High
+Data Sync Issues,Negative,2025-09-29,Real-time sync not working,USER_5678,Desktop,High
+Feature Request,Neutral,2025-09-28,Add collaboration features for teams,USER_3456,Web,Medium
+Login Issues,Negative,2025-09-27,Login page loads forever on mobile,USER_7890,iOS,High
+Mobile App Bug,Negative,2025-09-26,Crashes when trying to share content,USER_1234,Android,High
+Slow Performance,Negative,2025-09-25,Dashboard loads extremely slowly,USER_4567,Desktop,Medium
+App Crashes,Negative,2025-09-24,Random crashes every 10-15 minutes,USER_6789,iOS,High
+Notification Problems,Negative,2025-09-23,Email notifications going to spam,USER_8901,Web,Medium
+Security Concerns,Negative,2025-09-22,Cannot delete my account permanently,USER_2345,Android,High
+Login Issues,Negative,2025-09-21,Getting 'invalid credentials' error,USER_5678,Web,High
+Payment Failed,Negative,2025-09-20,Auto-renewal failed but no notification,USER_3456,iOS,High
+Slow Performance,Negative,2025-09-19,File upload speed is very poor,USER_7890,Desktop,Medium
+UI/UX Problems,Negative,2025-09-18,Icons are not intuitive,USER_1234,Android,Medium
+Data Sync Issues,Negative,2025-09-17,Sync fails silently without error,USER_4567,Web,High
+App Crashes,Negative,2025-09-16,Force close when uploading multiple images,USER_6789,Android,High
+Customer Support,Positive,2025-09-15,Excellent customer service experience,USER_8901,Web,Low
+Login Issues,Negative,2025-09-30,Social login (Facebook) keeps failing,USER_2345,iOS,High
+Billing Problems,Negative,2025-09-29,Getting charged twice for same subscription,USER_5678,Desktop,High
+Mobile App Bug,Negative,2025-09-28,App crashes during video playback,USER_3456,Android,High
+Slow Performance,Negative,2025-09-27,Response time is terrible during peak hours,USER_7890,Web,High
+Feature Request,Positive,2025-09-26,Want customizable dashboard widgets,USER_1234,iOS,Medium
+Login Issues,Negative,2025-09-25,SSO integration broken with company email,USER_4567,Web,High
+App Crashes,Negative,2025-09-24,Dashboard crashes when loading analytics,USER_6789,Desktop,High
+Payment Failed,Negative,2025-09-23,PayPal integration not working,USER_8901,Web,High
+Notification Problems,Negative,2025-09-22,Not receiving email notifications,USER_2345,Android,Medium
+Data Sync Issues,Negative,2025-09-21,Changes not syncing across devices,USER_5678,iOS,High
+Slow Performance,Negative,2025-09-20,Image loading is painfully slow,USER_3456,Web,Medium
+Login Issues,Negative,2025-09-19,Password manager not auto-filling login form,USER_7890,Desktop,Medium
+UI/UX Problems,Negative,2025-09-18,Too many clicks to complete simple tasks,USER_1234,Android,Medium
+Mobile App Bug,Negative,2025-09-17,App freezes on startup,USER_4567,iOS,High
+Search Not Working,Negative,2025-09-16,Search functionality completely broken,USER_6789,Web,High
+App Crashes,Negative,2025-09-15,Crash when accessing settings menu,USER_8901,Android,High
+Login Issues,Negative,2025-09-30,Cannot login with Google account - very frustrating!,USER_2345,Web,High
+Slow Performance,Negative,2025-09-29,App becomes sluggish after 10 minutes,USER_5678,iOS,Medium
+Payment Failed,Negative,2025-09-28,Cannot add new payment method,USER_3456,Desktop,High
+Data Sync Issues,Negative,2025-09-27,Lost data after sync conflict,USER_7890,Android,High
+Feature Request,Neutral,2025-09-26,Please add keyboard shortcuts,USER_1234,Web,Medium
+Login Issues,Negative,2025-09-25,Forgot password link doesn't work,USER_4567,iOS,High
+App Crashes,Negative,2025-09-24,Constant crashes on iOS 17,USER_6789,iOS,High
+Notification Problems,Negative,2025-09-23,Push notifications arrive hours late,USER_8901,Android,Medium
+Billing Problems,Negative,2025-09-22,Refund not processed after 10 days,USER_2345,Web,High
+Slow Performance,Negative,2025-09-21,Switching between screens has noticeable lag,USER_5678,Desktop,Medium
+Mobile App Bug,Negative,2025-09-20,Crashes when trying to share content,USER_3456,Android,High
+Login Issues,Negative,2025-09-19,Login button unresponsive after clicking,USER_7890,Web,High
+Security Concerns,Negative,2025-09-18,Personal data visible to other users,USER_1234,iOS,High
+UI/UX Problems,Neutral,2025-09-17,Layout breaks on tablet view,USER_4567,Android,Medium
+App Crashes,Negative,2025-09-16,App crashes when opening large files,USER_6789,Web,High
+Data Sync Issues,Negative,2025-09-15,Sync takes hours to complete - please fix ASAP,USER_8901,Desktop,High
+Payment Failed,Negative,2025-09-30,Stripe payment gateway timing out,USER_2345,iOS,High
+Slow Performance,Negative,2025-09-29,Very slow when scrolling through feed,USER_5678,Android,Medium
+Customer Support,Negative,2025-09-28,No response to my urgent ticket,USER_3456,Web,Medium
+Login Issues,Negative,2025-09-27,Two-factor authentication not working,USER_7890,Desktop,High
+Feature Request,Positive,2025-09-26,Please add export to Excel feature,USER_1234,Web,Medium
+Mobile App Bug,Negative,2025-09-25,Force close when uploading images - critical issue,USER_4567,Android,High
+App Crashes,Negative,2025-09-24,Random crashes every 10-15 minutes,USER_6789,iOS,High
+Notification Problems,Negative,2025-09-23,Too many spam notifications,USER_8901,Android,Low
+Slow Performance,Negative,2025-09-22,Dashboard loads extremely slowly,USER_2345,Web,Medium
+Integration Issues,Negative,2025-09-21,API integration not working,USER_5678,Desktop,High
+Login Issues,Negative,2025-09-20,Getting 'invalid credentials' error even with correct password,USER_3456,iOS,High
+Payment Failed,Negative,2025-09-19,International cards being rejected,USER_7890,Web,High
+Data Sync Issues,Negative,2025-09-18,Some files not syncing at all,USER_1234,Android,High
+App Crashes,Negative,2025-09-17,App freezes and crashes when switching between tabs,USER_4567,Desktop,High
+Slow Performance,Negative,2025-09-16,File upload speed is very poor - major blocker for our team,USER_6789,iOS,Medium
